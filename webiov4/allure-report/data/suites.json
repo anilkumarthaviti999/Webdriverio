@@ -1,0 +1,33 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "open the url",
+    "children" : [ {
+      "name" : "url",
+      "uid" : "3e51437a91a5c55",
+      "parentUid" : "d5d1705122d9f799219a75169e9575f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1552443051907,
+        "stop" : 1552443059731,
+        "duration" : 7824
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "creation of hierarchy",
+      "uid" : "f01c39db2ce8e2e0",
+      "parentUid" : "d5d1705122d9f799219a75169e9575f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1552443059731,
+        "stop" : 1552443071556,
+        "duration" : 11825
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "d5d1705122d9f799219a75169e9575f5"
+  } ]
+}

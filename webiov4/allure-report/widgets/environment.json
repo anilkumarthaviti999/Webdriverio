@@ -1,0 +1,7 @@
+[ {
+  "values" : [ "{\"maxInstances\":1,\"browserName\":\"chrome\"}" ],
+  "name" : "capabilities"
+}, {
+  "values" : [ "[\"D:\\\\webiov4\\\\lib\\\\src\\\\specs\\\\admin.spec.js\"]" ],
+  "name" : "spec files"
+} ]

@@ -1,0 +1,33 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "open the url",
+    "children" : [ {
+      "name" : "url",
+      "uid" : "3e51437a91a5c55",
+      "parentUid" : "1e3bfca8773a51366242ee271c4761c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1552443051907,
+        "stop" : 1552443059731,
+        "duration" : 7824
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "creation of hierarchy",
+      "uid" : "f01c39db2ce8e2e0",
+      "parentUid" : "1e3bfca8773a51366242ee271c4761c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1552443059731,
+        "stop" : 1552443071556,
+        "duration" : 11825
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "1e3bfca8773a51366242ee271c4761c7"
+  } ]
+}
